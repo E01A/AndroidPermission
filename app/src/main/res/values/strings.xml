@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPermission</string>
+    <string name="request_camera_permission">Request Camera Permission</string>
+    <string name="request_storage_permission">Request Storage Permission</string>
+    <string name="request_location_permission">Request Location Permission</string>
+    <string name="request_send_sms_permission">Request Send Sms Permission</string>
+</resources>
